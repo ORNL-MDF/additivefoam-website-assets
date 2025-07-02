@@ -15,7 +15,7 @@ The repository is organized into the following directories:
 To use these assets on the AdditiveFOAM website, reference them with relative paths in the HTML or Markdown files. For example:
 
 ```markdown
-![image](https://raw.githubusercontent.com/colemanjs/additivefoam-website-assets/main/images/logo.png)
+![image](https://raw.githubusercontent.com/colemanjs/additivefoam-website-assets/main/images/AdditiveFOAM-wordmark.svg)
 ```
 
-![image](https://raw.githubusercontent.com/ORNL-MDF/additivefoam-website-assets/main/images/logo.png)
+![image](https://raw.githubusercontent.com/ORNL-MDF/additivefoam-website-assets/main/images/AdditiveFOAM-wordmark.svg)
