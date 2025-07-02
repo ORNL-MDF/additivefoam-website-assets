@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="ALL" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 360 360">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-2 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-3 {
+        fill: #007934;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: url(#linear-gradient-7);
+        stroke-width: 12px;
+      }
+
+      .cls-4, .cls-5 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5 {
+        stroke: #007934;
+        stroke-width: 4px;
+      }
+
+      .cls-5, .cls-6 {
+        fill: #7fbc42;
+      }
+
+      .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11 {
+        fill-rule: evenodd;
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-7, .cls-12 {
+        opacity: .8;
+      }
+
+      .cls-8 {
+        fill: url(#linear-gradient-6);
+      }
+
+      .cls-8, .cls-9, .cls-10, .cls-11 {
+        opacity: .5;
+      }
+
+      .cls-9 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-10 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-13 {
+        opacity: .9;
+      }
+
+      .cls-14 {
+        opacity: .2;
+      }
+
+      .cls-11 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="976.3" y1="449.61" x2="1112.36" y2="449.61" gradientTransform="translate(1236.38 579.14) rotate(-135) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#057a3e"/>
+      <stop offset="1" stop-color="#2e5136"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="317.34" y1="-179.6" x2="456.5" y2="-179.6" gradientTransform="translate(33.4 579.14) rotate(-45)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="106.42" y1="174.97" x2="253.58" y2="174.97" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="180" y1="285.41" x2="180" y2="312.15" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="179.2" y1="275.75" x2="179.2" y2="259.62" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2e5136"/>
+      <stop offset="1" stop-color="#057a3e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="428.23" y1="-236.19" x2="458.79" y2="-236.19" gradientTransform="translate(33.4 579.14) rotate(-45)" xlink:href="#linear-gradient"/>
+    <radialGradient id="radial-gradient" cx="180" cy="180" fx="180" fy="180" r="96.09" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9ac764"/>
+      <stop offset="1" stop-color="#7fbc42"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-7" x1="-6630.34" y1="2724.91" x2="-6630.34" y2="2550.1" gradientTransform="translate(-6450.34 2810.67) rotate(-180)" gradientUnits="userSpaceOnUse">
+      <stop offset=".19" stop-color="#7fbc42" stop-opacity="0"/>
+      <stop offset="1" stop-color="#7fbc42"/>
+    </linearGradient>
+  </defs>
+  <polygon class="cls-11" points="105.47 136.93 180 254.82 254.53 136.93 105.47 136.93"/>
+  <polygon class="cls-10" points="256.23 156.38 180 276.96 103.78 156.38 256.23 156.38"/>
+  <polygon class="cls-7" points="188.69 116.77 180 130.52 171.31 116.77 106.42 116.77 180 233.17 253.58 116.77 188.69 116.77"/>
+  <path class="cls-9" d="M108.49,304.64h143.03s-41.28-7.29-71.51-37.7c-30.24,30.41-71.51,37.7-71.51,37.7Z"/>
+  <circle class="cls-1" cx="179.2" cy="268.09" r="12.16"/>
+  <polygon class="cls-8" points="196.74 93.65 180 120.14 163.26 93.65 196.74 93.65"/>
+  <g>
+    <polygon class="cls-2" points="252.05 55.2 107.95 55.2 35.9 180 107.95 304.8 252.05 304.8 324.1 180 252.05 55.2"/>
+    <polygon class="cls-3" points="116.85 289.38 243.15 289.38 306.3 180 243.15 70.62 116.85 70.62 53.7 180 116.85 289.38"/>
+    <g>
+      <g class="cls-14">
+        <polygon class="cls-6" points="180 200.3 234.73 103.22 125.27 103.22 180 200.3"/>
+      </g>
+      <g class="cls-13">
+        <polygon class="cls-6" points="180 219.07 218.05 151.58 141.95 151.58 180 219.07"/>
+      </g>
+      <g class="cls-12">
+        <polygon class="cls-6" points="236.23 119.34 123.77 119.34 131.22 132.55 228.78 132.55 236.23 119.34"/>
+      </g>
+      <g class="cls-12">
+        <polygon class="cls-6" points="219.69 148.67 227.14 135.46 132.86 135.46 140.31 148.67 219.69 148.67"/>
+      </g>
+      <g class="cls-12">
+        <polygon class="cls-6" points="245.32 103.22 114.68 103.22 122.13 116.43 237.87 116.43 245.32 103.22"/>
+      </g>
+    </g>
+    <circle class="cls-4" cx="180" cy="173.16" r="81.4"/>
+    <circle class="cls-5" cx="180" cy="254.57" r="14.37"/>
+  </g>
+</svg>
